@@ -3,7 +3,8 @@ A brief introduction of the UnitreeG1 in Romanian where the PCM is connected
 
 
 # Requirements
-
-pip install edge-tts\n
+```
+pip install edge-tts
 pip install edge-tts pydub
 sudo apt update && sudo apt install ffmpeg
+```
